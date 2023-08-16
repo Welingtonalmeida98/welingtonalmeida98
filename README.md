@@ -11,8 +11,7 @@ Eu sou o Welingon Almeida, sou Programador Front End, atualmente estou aprendend
 
 Iniciando o aprendizado de:
 
-- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript-logo" />
-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo" />
+- <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-native-logo" />
 
 
 [![Welingon stats](https://github-readme-stats.vercel.app/api?username=welingtonalmeida98)](https://github.com/anuraghazra/github-readme-stats)
